@@ -1,0 +1,8 @@
+# Phase 1 — CHSH. Versions confirmed against current IBM docs (2026-06-02, see PHASE1_API_REFERENCE.md).
+# IBM's own batch guide was developed on qiskit~=2.3 / qiskit-ibm-runtime~=0.43; runtime is at ~0.47.
+qiskit>=2.0
+qiskit-ibm-runtime>=0.43
+qiskit-aer>=0.15
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
